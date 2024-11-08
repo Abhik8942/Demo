@@ -1,4 +1,4 @@
 # Demo
 This is my first Git repo
 <br>
-Author - Abhik Mandal
+Author - Abhik Mandal (student)
